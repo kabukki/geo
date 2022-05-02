@@ -715,11 +715,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tirana",
                 "continent": "Europe",
                 "emoji": "🇦🇱",
                 "iso": "ALB",
-                "name": "Albania"
+                "name": "Albanie"
             }
         },
         {
@@ -820,11 +820,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Abou Dabi",
                 "continent": "Asie",
                 "emoji": "🇦🇪",
                 "iso": "ARE",
-                "name": "United Arab Emirates"
+                "name": "Émirats Arabes Unis"
             }
         },
         {
@@ -1327,11 +1327,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Buenos Aires",
                 "continent": "Amérique du Sud",
                 "emoji": "🇦🇷",
                 "iso": "ARG",
-                "name": "Argentina"
+                "name": "Argentine"
             }
         },
         {
@@ -1424,11 +1424,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Erevan",
                 "continent": "Asie",
                 "emoji": "🇦🇲",
                 "iso": "ARM",
-                "name": "Armenia"
+                "name": "Arménie"
             }
         },
         {
@@ -4115,11 +4115,8 @@
                 ]
             },
             "properties": {
-                "capital": "",
-                "continent": "Antarctica",
-                "emoji": "🇦🇶",
-                "iso": "ATA",
-                "name": "Antarctica"
+                "continent": "Antarctique",
+                "name": "Antarctique"
             }
         },
         {
@@ -4168,11 +4165,8 @@
                 ]
             },
             "properties": {
-                "capital": "",
-                "continent": "Seven seas (open ocean)",
-                "emoji": "🇹🇫",
-                "iso": "ATF",
-                "name": "Fr. S. Antarctic Lands"
+                "continent": "Sept mers",
+                "name": "Terres australes et antarctiques françaises"
             }
         },
         {
@@ -5155,11 +5149,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Canberra",
                 "continent": "Océanie",
                 "emoji": "🇦🇺",
                 "iso": "AUS",
-                "name": "Australia"
+                "name": "Australie"
             }
         },
         {
@@ -5320,11 +5314,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Vienne",
                 "continent": "Europe",
                 "emoji": "🇦🇹",
                 "iso": "AUT",
-                "name": "Austria"
+                "name": "Autriche"
             }
         },
         {
@@ -5519,11 +5513,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bakou",
                 "continent": "Asie",
                 "emoji": "🇦🇿",
                 "iso": "AZE",
-                "name": "Azerbaijan"
+                "name": "Azerbaïdjan"
             }
         },
         {
@@ -5588,7 +5582,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bujumbura",
                 "continent": "Afrique",
                 "emoji": "🇧🇮",
                 "iso": "BDI",
@@ -5665,11 +5659,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bruxelles",
                 "continent": "Europe",
                 "emoji": "🇧🇪",
                 "iso": "BEL",
-                "name": "Belgium"
+                "name": "Belgique"
             }
         },
         {
@@ -5782,11 +5776,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Porto-Novo",
                 "continent": "Afrique",
                 "emoji": "🇧🇯",
                 "iso": "BEN",
-                "name": "Benin"
+                "name": "Bénin"
             }
         },
         {
@@ -5955,7 +5949,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Ouagadougou",
                 "continent": "Afrique",
                 "emoji": "🇧🇫",
                 "iso": "BFA",
@@ -6116,7 +6110,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Dacca",
                 "continent": "Asie",
                 "emoji": "🇧🇩",
                 "iso": "BGD",
@@ -6245,11 +6239,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Sofia",
                 "continent": "Europe",
                 "emoji": "🇧🇬",
                 "iso": "BGR",
-                "name": "Bulgaria"
+                "name": "Bulgarie"
             }
         },
         {
@@ -6356,7 +6350,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Nassau",
                 "continent": "Amérique du Nord",
                 "emoji": "🇧🇸",
                 "iso": "BHS",
@@ -6461,11 +6455,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Sarajevo",
                 "continent": "Europe",
                 "emoji": "🇧🇦",
                 "iso": "BIH",
-                "name": "Bosnia and Herz."
+                "name": "Bosnie-Herzégovine"
             }
         },
         {
@@ -6654,11 +6648,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Minsk",
                 "continent": "Europe",
                 "emoji": "🇧🇾",
                 "iso": "BLR",
-                "name": "Belarus"
+                "name": "Biélorussie"
             }
         },
         {
@@ -6751,7 +6745,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Belmopan",
                 "continent": "Amérique du Nord",
                 "emoji": "🇧🇿",
                 "iso": "BLZ",
@@ -7008,11 +7002,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Sucre",
                 "continent": "Amérique du Sud",
                 "emoji": "🇧🇴",
                 "iso": "BOL",
-                "name": "Bolivia"
+                "name": "Bolivie"
             }
         },
         {
@@ -7837,11 +7831,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Brasilia",
                 "continent": "Amérique du Sud",
                 "emoji": "🇧🇷",
                 "iso": "BRA",
-                "name": "Brazil"
+                "name": "Brésil"
             }
         },
         {
@@ -7886,7 +7880,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bandar Seri Begawan",
                 "continent": "Asie",
                 "emoji": "🇧🇳",
                 "iso": "BRN",
@@ -7955,11 +7949,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Thimbu",
                 "continent": "Asie",
                 "emoji": "🇧🇹",
                 "iso": "BTN",
-                "name": "Bhutan"
+                "name": "Bhoutan"
             }
         },
         {
@@ -8132,7 +8126,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Gaborone",
                 "continent": "Afrique",
                 "emoji": "🇧🇼",
                 "iso": "BWA",
@@ -13275,11 +13269,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Pékin",
                 "continent": "Asie",
                 "emoji": "🇨🇳",
                 "iso": "CHN",
-                "name": "China"
+                "name": "Chine"
             }
         },
         {
@@ -13476,7 +13470,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Yamoussoukro",
                 "continent": "Afrique",
                 "emoji": "🇨🇮",
                 "iso": "CIV",
@@ -13737,11 +13731,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Yaoundé",
                 "continent": "Afrique",
                 "emoji": "🇨🇲",
                 "iso": "CMR",
-                "name": "Cameroon"
+                "name": "Cameroun"
             }
         },
         {
@@ -14242,11 +14236,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kinshasa",
                 "continent": "Afrique",
                 "emoji": "🇨🇩",
                 "iso": "COD",
-                "name": "Dem. Rep. Congo"
+                "name": "République Démocratique du Congo"
             }
         },
         {
@@ -14455,7 +14449,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Brazzaville",
                 "continent": "Afrique",
                 "emoji": "🇨🇬",
                 "iso": "COG",
@@ -14872,11 +14866,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bogota",
                 "continent": "Amérique du Sud",
                 "emoji": "🇨🇴",
                 "iso": "COL",
-                "name": "Colombia"
+                "name": "Colombie"
             }
         },
         {
@@ -15033,7 +15027,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "San José",
                 "continent": "Amérique du Nord",
                 "emoji": "🇨🇷",
                 "iso": "CRI",
@@ -15218,11 +15212,88 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "La Havane",
                 "continent": "Amérique du Nord",
                 "emoji": "🇨🇺",
                 "iso": "CUB",
                 "name": "Cuba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.97361657078346,
+                            35.058506374648005
+                        ],
+                        [
+                            34.00488081232004,
+                            34.97809784600186
+                        ],
+                        [
+                            32.97982710137845,
+                            34.57186941175544
+                        ],
+                        [
+                            32.49029625827754,
+                            34.701654771456475
+                        ],
+                        [
+                            32.25666710788596,
+                            35.10323232679663
+                        ],
+                        [
+                            32.73178022637745,
+                            35.14002594658844
+                        ],
+                        [
+                            32.919572381326134,
+                            35.08783274997364
+                        ],
+                        [
+                            33.19097700372305,
+                            35.17312470147138
+                        ],
+                        [
+                            33.3838334490363,
+                            35.16271190036457
+                        ],
+                        [
+                            33.45592207208347,
+                            35.10142365166641
+                        ],
+                        [
+                            33.47581749851585,
+                            35.000344550103506
+                        ],
+                        [
+                            33.5256852556775,
+                            35.03868846286407
+                        ],
+                        [
+                            33.675391880027064,
+                            35.01786286065045
+                        ],
+                        [
+                            33.86643965021011,
+                            35.09359467217419
+                        ],
+                        [
+                            33.97361657078346,
+                            35.058506374648005
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "capital": "Nicosie",
+                "continent": "Asie",
+                "emoji": "🇨🇾",
+                "iso": "CYP",
+                "name": "Chypre"
             }
         },
         {
@@ -15299,88 +15370,8 @@
                 ]
             },
             "properties": {
-                "capital": "",
                 "continent": "Asie",
-                "emoji": "",
-                "iso": "-99",
-                "name": "N. Cyprus"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            33.97361657078346,
-                            35.058506374648005
-                        ],
-                        [
-                            34.00488081232004,
-                            34.97809784600186
-                        ],
-                        [
-                            32.97982710137845,
-                            34.57186941175544
-                        ],
-                        [
-                            32.49029625827754,
-                            34.701654771456475
-                        ],
-                        [
-                            32.25666710788596,
-                            35.10323232679663
-                        ],
-                        [
-                            32.73178022637745,
-                            35.14002594658844
-                        ],
-                        [
-                            32.919572381326134,
-                            35.08783274997364
-                        ],
-                        [
-                            33.19097700372305,
-                            35.17312470147138
-                        ],
-                        [
-                            33.3838334490363,
-                            35.16271190036457
-                        ],
-                        [
-                            33.45592207208347,
-                            35.10142365166641
-                        ],
-                        [
-                            33.47581749851585,
-                            35.000344550103506
-                        ],
-                        [
-                            33.5256852556775,
-                            35.03868846286407
-                        ],
-                        [
-                            33.675391880027064,
-                            35.01786286065045
-                        ],
-                        [
-                            33.86643965021011,
-                            35.09359467217419
-                        ],
-                        [
-                            33.97361657078346,
-                            35.058506374648005
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "capital": "",
-                "continent": "Asie",
-                "emoji": "🇨🇾",
-                "iso": "CYP",
-                "name": "Cyprus"
+                "name": "Chypre du Nord"
             }
         },
         {
@@ -15533,11 +15524,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Prague",
                 "continent": "Europe",
                 "emoji": "🇨🇿",
                 "iso": "CZE",
-                "name": "Czech Rep."
+                "name": "République Tchèque"
             }
         },
         {
@@ -15782,11 +15773,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Berlin",
                 "continent": "Europe",
                 "emoji": "🇩🇪",
                 "iso": "DEU",
-                "name": "Germany"
+                "name": "Allemagne"
             }
         },
         {
@@ -15859,7 +15850,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Djibouti",
                 "continent": "Afrique",
                 "emoji": "🇩🇯",
                 "iso": "DJI",
@@ -15978,11 +15969,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Copenhague",
                 "continent": "Europe",
                 "emoji": "🇩🇰",
                 "iso": "DNK",
-                "name": "Denmark"
+                "name": "Danemark"
             }
         },
         {
@@ -16099,11 +16090,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Saint-Domingue",
                 "continent": "Amérique du Nord",
                 "emoji": "🇩🇴",
                 "iso": "DOM",
-                "name": "Dominican Rep."
+                "name": "République dominicaine"
             }
         },
         {
@@ -16364,11 +16355,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Alger",
                 "continent": "Afrique",
                 "emoji": "🇩🇿",
                 "iso": "DZA",
-                "name": "Algeria"
+                "name": "Algérie"
             }
         },
         {
@@ -16513,11 +16504,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Quito",
                 "continent": "Amérique du Sud",
                 "emoji": "🇪🇨",
                 "iso": "ECU",
-                "name": "Ecuador"
+                "name": "Équateur"
             }
         },
         {
@@ -16698,11 +16689,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Le Caire",
                 "continent": "Afrique",
                 "emoji": "🇪🇬",
                 "iso": "EGY",
-                "name": "Egypt"
+                "name": "Égypte"
             }
         },
         {
@@ -16827,11 +16818,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Asmara",
                 "continent": "Afrique",
                 "emoji": "🇪🇷",
                 "iso": "ERI",
-                "name": "Eritrea"
+                "name": "Érythrée"
             }
         },
         {
@@ -17048,11 +17039,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Madrid",
                 "continent": "Europe",
                 "emoji": "🇪🇸",
                 "iso": "ESP",
-                "name": "Spain"
+                "name": "Espagne"
             }
         },
         {
@@ -17133,11 +17124,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tallinn",
                 "continent": "Europe",
                 "emoji": "🇪🇪",
                 "iso": "EST",
-                "name": "Estonia"
+                "name": "Estonie"
             }
         },
         {
@@ -17386,11 +17377,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Addis-Abeba",
                 "continent": "Afrique",
                 "emoji": "🇪🇹",
                 "iso": "ETH",
-                "name": "Ethiopia"
+                "name": "Éthiopie"
             }
         },
         {
@@ -17555,11 +17546,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Helsinki",
                 "continent": "Europe",
                 "emoji": "🇫🇮",
                 "iso": "FIN",
-                "name": "Finland"
+                "name": "Finlande"
             }
         },
         {
@@ -17670,11 +17661,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Suva",
                 "continent": "Océanie",
                 "emoji": "🇫🇯",
                 "iso": "FJI",
-                "name": "Fiji"
+                "name": "Fidji"
             }
         },
         {
@@ -17727,11 +17718,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Port Stanley",
                 "continent": "Amérique du Sud",
                 "emoji": "🇫🇰",
                 "iso": "FLK",
-                "name": "Falkland Is."
+                "name": "Îles Malouines"
             }
         },
         {
@@ -18050,7 +18041,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Paris",
                 "continent": "Europe",
                 "emoji": "🇫🇷",
                 "iso": "FRA",
@@ -18191,7 +18182,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Libreville",
                 "continent": "Afrique",
                 "emoji": "🇬🇦",
                 "iso": "GAB",
@@ -18438,11 +18429,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Londres",
                 "continent": "Europe",
                 "emoji": "🇬🇧",
                 "iso": "GBR",
-                "name": "United Kingdom"
+                "name": "Royaume-Uni"
             }
         },
         {
@@ -18551,11 +18542,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tbilissi",
                 "continent": "Asie",
                 "emoji": "🇬🇪",
                 "iso": "GEO",
-                "name": "Georgia"
+                "name": "Géorgie"
             }
         },
         {
@@ -18668,7 +18659,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Accra",
                 "continent": "Afrique",
                 "emoji": "🇬🇭",
                 "iso": "GHA",
@@ -18965,11 +18956,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Conakry",
                 "continent": "Afrique",
                 "emoji": "🇬🇳",
                 "iso": "GIN",
-                "name": "Guinea"
+                "name": "Guinée"
             }
         },
         {
@@ -19046,11 +19037,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Banjul",
                 "continent": "Afrique",
                 "emoji": "🇬🇲",
                 "iso": "GMB",
-                "name": "Gambia"
+                "name": "Gambie"
             }
         },
         {
@@ -19139,11 +19130,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bissau",
                 "continent": "Afrique",
                 "emoji": "🇬🇼",
                 "iso": "GNB",
-                "name": "Guinea-Bissau"
+                "name": "Guinée-Bissau"
             }
         },
         {
@@ -19184,11 +19175,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Malabo",
                 "continent": "Afrique",
                 "emoji": "🇬🇶",
                 "iso": "GNQ",
-                "name": "Eq. Guinea"
+                "name": "Guinée équatoriale"
             }
         },
         {
@@ -19423,11 +19414,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Athènes",
                 "continent": "Europe",
                 "emoji": "🇬🇷",
                 "iso": "GRC",
-                "name": "Greece"
+                "name": "Grèce"
             }
         },
         {
@@ -19968,11 +19959,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Nuuk",
                 "continent": "Amérique du Nord",
                 "emoji": "🇬🇱",
                 "iso": "GRL",
-                "name": "Greenland"
+                "name": "Groënland"
             }
         },
         {
@@ -20125,7 +20116,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Guatemala",
                 "continent": "Amérique du Nord",
                 "emoji": "🇬🇹",
                 "iso": "GTM",
@@ -20302,7 +20293,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Georgetown",
                 "continent": "Amérique du Sud",
                 "emoji": "🇬🇾",
                 "iso": "GUY",
@@ -20547,7 +20538,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tegucigalpa",
                 "continent": "Amérique du Nord",
                 "emoji": "🇭🇳",
                 "iso": "HND",
@@ -20732,11 +20723,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Zagreb",
                 "continent": "Europe",
                 "emoji": "🇭🇷",
                 "iso": "HRV",
-                "name": "Croatia"
+                "name": "Croatie"
             }
         },
         {
@@ -20833,11 +20824,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Port-au-Prince",
                 "continent": "Amérique du Nord",
                 "emoji": "🇭🇹",
                 "iso": "HTI",
-                "name": "Haiti"
+                "name": "Haïti"
             }
         },
         {
@@ -20974,11 +20965,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Budapest",
                 "continent": "Europe",
                 "emoji": "🇭🇺",
                 "iso": "HUN",
-                "name": "Hungary"
+                "name": "Hongrie"
             }
         },
         {
@@ -22041,11 +22032,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Jakarta",
                 "continent": "Asie",
                 "emoji": "🇮🇩",
                 "iso": "IDN",
-                "name": "Indonesia"
+                "name": "Indonésie"
             }
         },
         {
@@ -22602,11 +22593,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "New Delhi",
                 "continent": "Asie",
                 "emoji": "🇮🇳",
                 "iso": "IND",
-                "name": "India"
+                "name": "Inde"
             }
         },
         {
@@ -22671,11 +22662,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Dublin",
                 "continent": "Europe",
                 "emoji": "🇮🇪",
                 "iso": "IRL",
-                "name": "Ireland"
+                "name": "Irlande"
             }
         },
         {
@@ -22988,7 +22979,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Téhéran",
                 "continent": "Asie",
                 "emoji": "🇮🇷",
                 "iso": "IRN",
@@ -23125,11 +23116,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bagdad",
                 "continent": "Asie",
                 "emoji": "🇮🇶",
                 "iso": "IRQ",
-                "name": "Iraq"
+                "name": "Irak"
             }
         },
         {
@@ -23222,11 +23213,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Reykjavik",
                 "continent": "Europe",
                 "emoji": "🇮🇸",
                 "iso": "ISL",
-                "name": "Iceland"
+                "name": "Islande"
             }
         },
         {
@@ -23331,11 +23322,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Jérusalem",
                 "continent": "Asie",
                 "emoji": "🇮🇱",
                 "iso": "ISR",
-                "name": "Israel"
+                "name": "Israël"
             }
         },
         {
@@ -23706,11 +23697,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Rome",
                 "continent": "Europe",
                 "emoji": "🇮🇹",
                 "iso": "ITA",
-                "name": "Italy"
+                "name": "Italie"
             }
         },
         {
@@ -23767,11 +23758,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kingston",
                 "continent": "Amérique du Nord",
                 "emoji": "🇯🇲",
                 "iso": "JAM",
-                "name": "Jamaica"
+                "name": "Jamaïque"
             }
         },
         {
@@ -23860,11 +23851,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Amman",
                 "continent": "Asie",
                 "emoji": "🇯🇴",
                 "iso": "JOR",
-                "name": "Jordan"
+                "name": "Jordanie"
             }
         },
         {
@@ -24147,11 +24138,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tokyo",
                 "continent": "Asie",
                 "emoji": "🇯🇵",
                 "iso": "JPN",
-                "name": "Japan"
+                "name": "Japon"
             }
         },
         {
@@ -24612,7 +24603,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Astana",
                 "continent": "Asie",
                 "emoji": "🇰🇿",
                 "iso": "KAZ",
@@ -24777,7 +24768,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Nairobi",
                 "continent": "Afrique",
                 "emoji": "🇰🇪",
                 "iso": "KEN",
@@ -24934,11 +24925,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bichkek",
                 "continent": "Asie",
                 "emoji": "🇰🇬",
                 "iso": "KGZ",
-                "name": "Kyrgyzstan"
+                "name": "Kirghizistan"
             }
         },
         {
@@ -25019,11 +25010,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Phnom-Penh",
                 "continent": "Asie",
                 "emoji": "🇰🇭",
                 "iso": "KHM",
-                "name": "Cambodia"
+                "name": "Cambodge"
             }
         },
         {
@@ -25112,11 +25103,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Séoul",
                 "continent": "Asie",
                 "emoji": "🇰🇷",
                 "iso": "KOR",
-                "name": "Korea"
+                "name": "Corée du Sud"
             }
         },
         {
@@ -25213,10 +25204,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
                 "continent": "Europe",
-                "emoji": "",
-                "iso": "-99",
                 "name": "Kosovo"
             }
         },
@@ -25266,11 +25254,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Koweït",
                 "continent": "Asie",
                 "emoji": "🇰🇼",
                 "iso": "KWT",
-                "name": "Kuwait"
+                "name": "Koweït"
             }
         },
         {
@@ -25431,11 +25419,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Vientiane",
                 "continent": "Asie",
                 "emoji": "🇱🇦",
                 "iso": "LAO",
-                "name": "Lao PDR"
+                "name": "Laos"
             }
         },
         {
@@ -25492,11 +25480,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Beyrouth",
                 "continent": "Asie",
                 "emoji": "🇱🇧",
                 "iso": "LBN",
-                "name": "Lebanon"
+                "name": "Liban"
             }
         },
         {
@@ -25617,7 +25605,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Monrovia",
                 "continent": "Afrique",
                 "emoji": "🇱🇷",
                 "iso": "LBR",
@@ -25858,11 +25846,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tripoli",
                 "continent": "Afrique",
                 "emoji": "🇱🇾",
                 "iso": "LBY",
-                "name": "Libya"
+                "name": "Libye"
             }
         },
         {
@@ -25915,7 +25903,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Colombo",
                 "continent": "Asie",
                 "emoji": "🇱🇰",
                 "iso": "LKA",
@@ -25980,7 +25968,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Maseru",
                 "continent": "Afrique",
                 "emoji": "🇱🇸",
                 "iso": "LSO",
@@ -26073,11 +26061,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Vilnius",
                 "continent": "Europe",
                 "emoji": "🇱🇹",
                 "iso": "LTU",
-                "name": "Lithuania"
+                "name": "Lituanie"
             }
         },
         {
@@ -26118,7 +26106,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Luxembourg",
                 "continent": "Europe",
                 "emoji": "🇱🇺",
                 "iso": "LUX",
@@ -26223,11 +26211,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Riga",
                 "continent": "Europe",
                 "emoji": "🇱🇻",
                 "iso": "LVA",
-                "name": "Latvia"
+                "name": "Lettonie"
             }
         },
         {
@@ -26496,11 +26484,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Rabat",
                 "continent": "Afrique",
                 "emoji": "🇲🇦",
                 "iso": "MAR",
-                "name": "Morocco"
+                "name": "Maroc"
             }
         },
         {
@@ -26621,11 +26609,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Chisinau",
                 "continent": "Europe",
                 "emoji": "🇲🇩",
                 "iso": "MDA",
-                "name": "Moldova"
+                "name": "Moldavie"
             }
         },
         {
@@ -27531,11 +27519,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Mexico",
                 "continent": "Amérique du Nord",
                 "emoji": "🇲🇽",
                 "iso": "MEX",
-                "name": "Mexico"
+                "name": "Mexique"
             }
         },
         {
@@ -27616,11 +27604,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Skopje",
                 "continent": "Europe",
                 "emoji": "🇲🇰",
                 "iso": "MKD",
-                "name": "Macedonia"
+                "name": "Macédoine"
             }
         },
         {
@@ -27937,7 +27925,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bamako",
                 "continent": "Afrique",
                 "emoji": "🇲🇱",
                 "iso": "MLI",
@@ -28234,7 +28222,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Naypyidaw",
                 "continent": "Asie",
                 "emoji": "🇲🇲",
                 "iso": "MMR",
@@ -28323,11 +28311,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Podgorica",
                 "continent": "Europe",
                 "emoji": "🇲🇪",
                 "iso": "MNE",
-                "name": "Montenegro"
+                "name": "Monténégro"
             }
         },
         {
@@ -28640,11 +28628,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Oulan-Bator",
                 "continent": "Asie",
                 "emoji": "🇲🇳",
                 "iso": "MNG",
-                "name": "Mongolia"
+                "name": "Mongolie"
             }
         },
         {
@@ -28965,7 +28953,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Maputo",
                 "continent": "Afrique",
                 "emoji": "🇲🇿",
                 "iso": "MOZ",
@@ -29138,11 +29126,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Nouakchott",
                 "continent": "Afrique",
                 "emoji": "🇲🇷",
                 "iso": "MRT",
-                "name": "Mauritania"
+                "name": "Mauritanie"
             }
         },
         {
@@ -29267,7 +29255,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Lilongwé",
                 "continent": "Afrique",
                 "emoji": "🇲🇼",
                 "iso": "MWI",
@@ -29538,11 +29526,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kuala Lumpur",
                 "continent": "Asie",
                 "emoji": "🇲🇾",
                 "iso": "MYS",
-                "name": "Malaysia"
+                "name": "Malaisie"
             }
         },
         {
@@ -29731,11 +29719,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Windhoek",
                 "continent": "Afrique",
                 "emoji": "🇳🇦",
                 "iso": "NAM",
-                "name": "Namibia"
+                "name": "Namibie"
             }
         },
         {
@@ -29800,11 +29788,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Nouméa",
                 "continent": "Océanie",
                 "emoji": "🇳🇨",
                 "iso": "NCL",
-                "name": "New Caledonia"
+                "name": "Nouvelle-Calédonie"
             }
         },
         {
@@ -30049,7 +30037,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Niamey",
                 "continent": "Afrique",
                 "emoji": "🇳🇪",
                 "iso": "NER",
@@ -30298,7 +30286,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Abuja",
                 "continent": "Afrique",
                 "emoji": "🇳🇬",
                 "iso": "NGA",
@@ -30523,7 +30511,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Managua",
                 "continent": "Amérique du Nord",
                 "emoji": "🇳🇮",
                 "iso": "NIC",
@@ -30596,11 +30584,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Amsterdam",
                 "continent": "Europe",
                 "emoji": "🇳🇱",
                 "iso": "NLD",
-                "name": "Netherlands"
+                "name": "Pays-Bas"
             }
         },
         {
@@ -30979,11 +30967,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Oslo",
                 "continent": "Europe",
                 "emoji": "🇳🇴",
                 "iso": "NOR",
-                "name": "Norway"
+                "name": "Norvège"
             }
         },
         {
@@ -31088,11 +31076,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Katmandou",
                 "continent": "Asie",
                 "emoji": "🇳🇵",
                 "iso": "NPL",
-                "name": "Nepal"
+                "name": "Népal"
             }
         },
         {
@@ -31375,11 +31363,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Wellington",
                 "continent": "Océanie",
                 "emoji": "🇳🇿",
                 "iso": "NZL",
-                "name": "New Zealand"
+                "name": "Nouvelle-Zélande"
             }
         },
         {
@@ -31586,7 +31574,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Mascate",
                 "continent": "Asie",
                 "emoji": "🇴🇲",
                 "iso": "OMN",
@@ -31867,7 +31855,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Islamabad",
                 "continent": "Asie",
                 "emoji": "🇵🇰",
                 "iso": "PAK",
@@ -32092,7 +32080,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Panama",
                 "continent": "Amérique du Nord",
                 "emoji": "🇵🇦",
                 "iso": "PAN",
@@ -32413,11 +32401,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Lima",
                 "continent": "Amérique du Sud",
                 "emoji": "🇵🇪",
                 "iso": "PER",
-                "name": "Peru"
+                "name": "Pérou"
             }
         },
         {
@@ -32896,7 +32884,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Manille",
                 "continent": "Asie",
                 "emoji": "🇵🇭",
                 "iso": "PHL",
@@ -33251,11 +33239,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Port Moresby",
                 "continent": "Océanie",
                 "emoji": "🇵🇬",
                 "iso": "PNG",
-                "name": "Papua New Guinea"
+                "name": "Papouasie-Nouvelle-Guinée"
             }
         },
         {
@@ -33448,11 +33436,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Varsovie",
                 "continent": "Europe",
                 "emoji": "🇵🇱",
                 "iso": "POL",
-                "name": "Poland"
+                "name": "Pologne"
             }
         },
         {
@@ -33501,11 +33489,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "San Juan",
                 "continent": "Amérique du Nord",
                 "emoji": "🇵🇷",
                 "iso": "PRI",
-                "name": "Puerto Rico"
+                "name": "Porto Rico"
             }
         },
         {
@@ -33690,11 +33678,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Pyongyang",
                 "continent": "Asie",
                 "emoji": "🇰🇵",
                 "iso": "PRK",
-                "name": "Dem. Rep. Korea"
+                "name": "Corée du Nord"
             }
         },
         {
@@ -33839,7 +33827,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Lisbonne",
                 "continent": "Europe",
                 "emoji": "🇵🇹",
                 "iso": "PRT",
@@ -33988,7 +33976,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Asuncion",
                 "continent": "Amérique du Sud",
                 "emoji": "🇵🇾",
                 "iso": "PRY",
@@ -34041,7 +34029,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Ramallah",
                 "continent": "Asie",
                 "emoji": "🇵🇸",
                 "iso": "PSE",
@@ -34094,7 +34082,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Doha",
                 "continent": "Asie",
                 "emoji": "🇶🇦",
                 "iso": "QAT",
@@ -34287,11 +34275,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bucarest",
                 "continent": "Europe",
                 "emoji": "🇷🇴",
                 "iso": "ROU",
-                "name": "Romania"
+                "name": "Roumanie"
             }
         },
         {
@@ -36746,11 +36734,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Moscou",
                 "continent": "Europe",
                 "emoji": "🇷🇺",
                 "iso": "RUS",
-                "name": "Russia"
+                "name": "Russie"
             }
         },
         {
@@ -36815,7 +36803,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kigali",
                 "continent": "Afrique",
                 "emoji": "🇷🇼",
                 "iso": "RWA",
@@ -36944,11 +36932,8 @@
                 ]
             },
             "properties": {
-                "capital": "",
                 "continent": "Afrique",
-                "emoji": "🇪🇭",
-                "iso": "ESH",
-                "name": "W. Sahara"
+                "name": "Sahara occidental"
             }
         },
         {
@@ -37265,11 +37250,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Riyad",
                 "continent": "Asie",
                 "emoji": "🇸🇦",
                 "iso": "SAU",
-                "name": "Saudi Arabia"
+                "name": "Arabie Saoudite"
             }
         },
         {
@@ -37598,11 +37583,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Khartoum",
                 "continent": "Afrique",
                 "emoji": "🇸🇩",
                 "iso": "SDN",
-                "name": "Sudan"
+                "name": "Soudan"
             }
         },
         {
@@ -37867,11 +37852,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Djouba",
                 "continent": "Afrique",
                 "emoji": "🇸🇸",
                 "iso": "SSD",
-                "name": "S. Sudan"
+                "name": "Soudan du Sud"
             }
         },
         {
@@ -38060,11 +38045,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Dakar",
                 "continent": "Afrique",
                 "emoji": "🇸🇳",
                 "iso": "SEN",
-                "name": "Senegal"
+                "name": "Sénégal"
             }
         },
         {
@@ -38243,11 +38228,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Honiara",
                 "continent": "Océanie",
                 "emoji": "🇸🇧",
                 "iso": "SLB",
-                "name": "Solomon Is."
+                "name": "Iles Salomon"
             }
         },
         {
@@ -38348,7 +38333,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Freetown",
                 "continent": "Afrique",
                 "emoji": "🇸🇱",
                 "iso": "SLE",
@@ -38445,7 +38430,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "San Salvador",
                 "continent": "Amérique du Nord",
                 "emoji": "🇸🇻",
                 "iso": "SLV",
@@ -38558,10 +38543,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
                 "continent": "Afrique",
-                "emoji": "",
-                "iso": "-99",
                 "name": "Somaliland"
             }
         },
@@ -38719,11 +38701,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Mogadiscio",
                 "continent": "Afrique",
                 "emoji": "🇸🇴",
                 "iso": "SOM",
-                "name": "Somalia"
+                "name": "Somalie"
             }
         },
         {
@@ -38920,11 +38902,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Belgrade",
                 "continent": "Europe",
                 "emoji": "🇷🇸",
                 "iso": "SRB",
-                "name": "Serbia"
+                "name": "Serbie"
             }
         },
         {
@@ -39041,7 +39023,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Paramaribo",
                 "continent": "Amérique du Sud",
                 "emoji": "🇸🇷",
                 "iso": "SUR",
@@ -39190,11 +39172,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bratislava",
                 "continent": "Europe",
                 "emoji": "🇸🇰",
                 "iso": "SVK",
-                "name": "Slovakia"
+                "name": "Slovaquie"
             }
         },
         {
@@ -39279,11 +39261,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Ljubljana",
                 "continent": "Europe",
                 "emoji": "🇸🇮",
                 "iso": "SVN",
-                "name": "Slovenia"
+                "name": "Slovénie"
             }
         },
         {
@@ -39456,11 +39438,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Stockholm",
                 "continent": "Europe",
                 "emoji": "🇸🇪",
                 "iso": "SWE",
-                "name": "Sweden"
+                "name": "Suède"
             }
         },
         {
@@ -39517,11 +39499,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Mbabane",
                 "continent": "Afrique",
                 "emoji": "🇸🇿",
                 "iso": "SWZ",
-                "name": "Swaziland"
+                "name": "Eswatini"
             }
         },
         {
@@ -39642,11 +39624,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Damas",
                 "continent": "Asie",
                 "emoji": "🇸🇾",
                 "iso": "SYR",
-                "name": "Syria"
+                "name": "Syrie"
             }
         },
         {
@@ -39891,11 +39873,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "N'Djamena",
                 "continent": "Afrique",
                 "emoji": "🇹🇩",
                 "iso": "TCD",
-                "name": "Chad"
+                "name": "Tchad"
             }
         },
         {
@@ -39984,7 +39966,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Lomé",
                 "continent": "Afrique",
                 "emoji": "🇹🇬",
                 "iso": "TGO",
@@ -40257,11 +40239,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Bangkok",
                 "continent": "Asie",
                 "emoji": "🇹🇭",
                 "iso": "THA",
-                "name": "Thailand"
+                "name": "Thaïlande"
             }
         },
         {
@@ -40438,11 +40420,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Douchanbe",
                 "continent": "Asie",
                 "emoji": "🇹🇯",
                 "iso": "TJK",
-                "name": "Tajikistan"
+                "name": "Tadjikistan"
             }
         },
         {
@@ -40671,11 +40653,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Achgabat",
                 "continent": "Asie",
                 "emoji": "🇹🇲",
                 "iso": "TKM",
-                "name": "Turkmenistan"
+                "name": "Turkménistan"
             }
         },
         {
@@ -40732,11 +40714,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Dili",
                 "continent": "Asie",
                 "emoji": "🇹🇱",
                 "iso": "TLS",
-                "name": "Timor-Leste"
+                "name": "Timor oriental"
             }
         },
         {
@@ -40781,11 +40763,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Port-d'Espagne",
                 "continent": "Amérique du Nord",
                 "emoji": "🇹🇹",
                 "iso": "TTO",
-                "name": "Trinidad and Tobago"
+                "name": "Trinité-et-Tobago"
             }
         },
         {
@@ -40922,11 +40904,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tunis",
                 "continent": "Afrique",
                 "emoji": "🇹🇳",
                 "iso": "TUN",
-                "name": "Tunisia"
+                "name": "Tunisie"
             }
         },
         {
@@ -41213,11 +41195,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Ankara",
                 "continent": "Asie",
                 "emoji": "🇹🇷",
                 "iso": "TUR",
-                "name": "Turkey"
+                "name": "Turquie"
             }
         },
         {
@@ -41266,7 +41248,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Taipei",
                 "continent": "Asie",
                 "emoji": "🇹🇼",
                 "iso": "TWN",
@@ -41479,11 +41461,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Dodoma",
                 "continent": "Afrique",
                 "emoji": "🇹🇿",
                 "iso": "TZA",
-                "name": "Tanzania"
+                "name": "Tanzanie"
             }
         },
         {
@@ -41604,11 +41586,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kampala",
                 "continent": "Afrique",
                 "emoji": "🇺🇬",
                 "iso": "UGA",
-                "name": "Uganda"
+                "name": "Ouganda"
             }
         },
         {
@@ -42013,7 +41995,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Kiev",
                 "continent": "Europe",
                 "emoji": "🇺🇦",
                 "iso": "UKR",
@@ -42114,7 +42096,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Montevideo",
                 "continent": "Amérique du Sud",
                 "emoji": "🇺🇾",
                 "iso": "URY",
@@ -43945,11 +43927,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Washington",
                 "continent": "Amérique du Nord",
                 "emoji": "🇺🇸",
                 "iso": "USA",
-                "name": "United States"
+                "name": "États-Unis"
             }
         },
         {
@@ -44178,11 +44160,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Tachkent",
                 "continent": "Asie",
                 "emoji": "🇺🇿",
                 "iso": "UZB",
-                "name": "Uzbekistan"
+                "name": "Ouzbékistan"
             }
         },
         {
@@ -44563,7 +44545,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Caracas",
                 "continent": "Amérique du Sud",
                 "emoji": "🇻🇪",
                 "iso": "VEN",
@@ -44756,7 +44738,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Hanoi",
                 "continent": "Asie",
                 "emoji": "🇻🇳",
                 "iso": "VNM",
@@ -44827,7 +44809,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Port-Vila",
                 "continent": "Océanie",
                 "emoji": "🇻🇺",
                 "iso": "VUT",
@@ -45020,11 +45002,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Sanaa",
                 "continent": "Asie",
                 "emoji": "🇾🇪",
                 "iso": "YEM",
-                "name": "Yemen"
+                "name": "Yémen"
             }
         },
         {
@@ -45676,11 +45658,11 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Lusaka",
                 "continent": "Afrique",
                 "emoji": "🇿🇲",
                 "iso": "ZMB",
-                "name": "Zambia"
+                "name": "Zambie"
             }
         },
         {
@@ -45841,7 +45823,7 @@
                 ]
             },
             "properties": {
-                "capital": "",
+                "capital": "Harare",
                 "continent": "Afrique",
                 "emoji": "🇿🇼",
                 "iso": "ZWE",
