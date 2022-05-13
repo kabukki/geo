@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "vite build src",
-    "start": "vite src --host"
+    "build": "vite build",
+    "start": "vite --host"
   },
   "repository": {
     "type": "git",
