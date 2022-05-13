@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "vite build src",
     "start": "vite src --host"
   },
   "repository": {
