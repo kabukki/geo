@@ -12,8 +12,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_S3_ACCESS_KEY_SECRET }}
       - name: Install
         run: npm ci
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build
         run: npm run build
       - name: Deploy
