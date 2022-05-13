@@ -35,10 +35,10 @@ const sets = [
 
 export const Selection = ({ onSelect }) => {
     return (
-        <div className="p-4 h-screen container mx-auto grid grid-cols-3 gap-4 content-center">
+        <div className="h-screen grid grid-cols-3 gap-4 content-center items-stretch">
             <h1 className="col-span-3 text-center font-bold">🌍 Sélectionnez un continent</h1>
             {sets.map((collection) => (
-                <button key={collection.name} className="p-2 flex flex-col gap-2 items-center justify-center aspect-square shadow rounded text-lg" onClick={() => onSelect(collection)}>
+                <button key={collection.name} className="p-2 flex flex-col gap-2 items-center justify-center shadow rounded text-lg bg-neutral-100" onClick={() => onSelect(collection)}>
                     <FontAwesomeIcon icon={collection.icon} />
                     {collection.name} ({collection.countries.length})
                 </button>

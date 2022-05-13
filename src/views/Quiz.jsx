@@ -12,7 +12,7 @@ export const Quiz = ({ todo, done, onScore }) => {
     }, [country]);
 
     return (
-        <div className="p-4 h-screen container mx-auto flex flex-col gap-4">
+        <div className="h-screen flex flex-col gap-4">
             <div className="p-2 flex items-center justify-between shadow rounded bg-neutral-100">
                 {reveal ? <Country feature={country} /> : '???'}
                 <div>{done.length + 1} / {todo.length + done.length}</div>

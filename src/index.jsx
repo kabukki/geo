@@ -26,19 +26,19 @@ const App = () => {
         setTodo(collection.countries);
     };
 
-    if (collection) {
-        return (
-            todo.length > 0 ? (
-                <Quiz todo={todo} done={done} onScore={onScore} />
+    return (
+        <main className="p-4 container mx-auto max-w-screen-md">
+            {collection ? (
+                todo.length > 0 ? (
+                    <Quiz todo={todo} done={done} onScore={onScore} />
+                ) : (
+                    <Summary countries={done} onReset={onReset} />
+                )
             ) : (
-                <Summary countries={done} onReset={onReset} />
-            )
-        );
-    } else {
-        return (
-            <Selection onSelect={onSelect} />
-        );
-    }
+                <Selection onSelect={onSelect} />
+            )}
+        </main>
+    );
 };
 
 ReactDOM.render(<App />, document.getElementById('app'));

@@ -24,7 +24,7 @@ export const Summary = ({ countries, onReset }) => {
     };
 
     return (
-        <div className="p-4 h-screen container mx-auto flex flex-col gap-4">
+        <div className="h-screen flex flex-col gap-4">
             <Country className="p-2 shadow rounded" style={{ backgroundColor: scoreColor(focus.score) }} feature={focus?.feature} />
             <Globe
                 className="h-1/2 self-center aspect-square drop-shadow-xl"
