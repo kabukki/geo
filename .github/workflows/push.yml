@@ -19,3 +19,9 @@ jobs:
       #   run: aws s3 sync dist s3://${{ secrets.AWS_S3_BUCKET }}/${{ github.event.repository.name }} --delete
       # - name: Invalidate cache
       #   run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION }} --paths "/*"
+      - name: Save npm logs
+        uses: actions/upload-artifact@v2
+        if: failure()
+        with:
+          name: npm-logs
+          path: ~/.npm/_logs
