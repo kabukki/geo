@@ -11,7 +11,7 @@ jobs:
       - name: Install
         run: npm ci
       - name: Build
-        run: npm run build
+        run: npm run build -- --base /${{ github.event.repository.name }}/
       - name: Save build output
         uses: actions/upload-artifact@v3
         with:
